@@ -52,7 +52,8 @@ Read [this](https://telegram.dog/Sources_cods) before you start messing up with 
 ## Deploy
 You can deploy this bot anywhere.
 
-[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/AM-ROBOTS/EvaMaria)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dax083/File-bot)</br>
+
 
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/Miajl2amrKo)**</i>
